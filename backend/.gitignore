@@ -1,0 +1,6 @@
+node_modules
+*.local
+.DS_Store
+
+# 环境变量文件（里面有数据库密码，绝不能提交到 GitHub）
+.env

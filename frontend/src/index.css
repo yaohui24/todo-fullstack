@@ -1,0 +1,9 @@
+/* 引入 Tailwind CSS v4（所有工具类从这里来） */
+@import "tailwindcss";
+
+/* 全局基础样式：中文字体优先 */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", "PingFang SC",
+    "Microsoft YaHei", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
